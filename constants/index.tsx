@@ -15,7 +15,7 @@ export const sidebarLinks = [
         imgUrl:'/icons/previous.svg',
     },
     {
-        label:'Dữ liệu',
+        label:'Bản ghi',
         route:'/recordings',
         imgUrl:'/icons/Video.svg',
     },
